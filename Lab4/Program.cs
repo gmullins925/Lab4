@@ -12,7 +12,7 @@ namespace Lab4
 			int nCurrent;
 			string strEntry;
 
-			//firest integer
+			//first integer
 			Console.WriteLine("Enter an integer");
 			nLargest = nSmallest = Convert.ToInt32(Console.ReadLine());
 
